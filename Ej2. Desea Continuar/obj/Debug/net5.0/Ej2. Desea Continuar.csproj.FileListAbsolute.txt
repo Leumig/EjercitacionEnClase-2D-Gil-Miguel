@@ -1,0 +1,16 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\bin\Debug\net5.0\Ej2. Desea Continuar.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\bin\Debug\net5.0\Ej2. Desea Continuar.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\bin\Debug\net5.0\Ej2. Desea Continuar.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\bin\Debug\net5.0\Ej2. Desea Continuar.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\bin\Debug\net5.0\Ej2. Desea Continuar.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\bin\Debug\net5.0\Ej2. Desea Continuar.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\refint\Ej2. Desea Continuar.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\Ej2. Desea Continuar.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Ej2. Desea Continuar\obj\Debug\net5.0\ref\Ej2. Desea Continuar.dll
