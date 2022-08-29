@@ -6,4 +6,8 @@
     <RootNamespace>Ej1._Creo_que_necesito_un_prestamo</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Librería de Clases\Librería de Clases.csproj" />
+  </ItemGroup>
+
 </Project>

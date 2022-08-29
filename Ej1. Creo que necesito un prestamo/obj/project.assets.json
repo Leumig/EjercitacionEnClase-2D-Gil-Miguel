@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Librería de Clases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Librería de Clases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Librería de Clases.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Librería de Clases/1.0.0": {
+      "type": "project",
+      "path": "../Librería de Clases/Librería de Clases.csproj",
+      "msbuildProject": "../Librería de Clases/Librería de Clases.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Librería de Clases >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\JUNIOR\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\JUNIOR\\Desktop\\EjercitacionEnClase-Gil-Miguel\\Librería de Clases\\Librería de Clases.csproj": {
+              "projectPath": "C:\\Users\\JUNIOR\\Desktop\\EjercitacionEnClase-Gil-Miguel\\Librería de Clases\\Librería de Clases.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -7,23 +7,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase01 - Introducción", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase02 - Clases y métodos estáticos", "Clase02 - Clases y métodos estáticos", "{A6340E74-3EC9-4D43-A35C-C1BF9FDFFD67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1. Max, Min, Promedio", "Ej1. Max, Min, Promedio\Ej1. Max, Min, Promedio.csproj", "{E6F49772-D0E1-4021-9D2D-8D87FB619FE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej1. Max, Min, Promedio", "Ej1. Max, Min, Promedio\Ej1. Max, Min, Promedio.csproj", "{E6F49772-D0E1-4021-9D2D-8D87FB619FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2. Error al cubo", "Ej2. Error al cubo\Ej2. Error al cubo.csproj", "{3385A0DD-E601-4F71-81C1-704B7D7D0D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej2. Error al cubo", "Ej2. Error al cubo\Ej2. Error al cubo.csproj", "{3385A0DD-E601-4F71-81C1-704B7D7D0D5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej3. Los primos", "Ej3. Los primos\Ej3. Los primos.csproj", "{7C133185-1511-4493-84C9-8537C6698FB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej3. Los primos", "Ej3. Los primos\Ej3. Los primos.csproj", "{7C133185-1511-4493-84C9-8537C6698FB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej4. Numero Perfecto", "Ej4. Numero Perfecto\Ej4. Numero Perfecto.csproj", "{3EACB668-569D-4EF8-A577-6F44C493BA91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej4. Numero Perfecto", "Ej4. Numero Perfecto\Ej4. Numero Perfecto.csproj", "{3EACB668-569D-4EF8-A577-6F44C493BA91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1. Validador de rangos", "Ej1. Validador de rangos\Ej1. Validador de rangos.csproj", "{040BC2FF-7049-4592-A971-3DC25EA6AC21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej1. Validador de rangos", "Ej1. Validador de rangos\Ej1. Validador de rangos.csproj", "{040BC2FF-7049-4592-A971-3DC25EA6AC21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2. Desea Continuar", "Ej2. Desea Continuar\Ej2. Desea Continuar.csproj", "{75131D43-8A3A-4FF2-A7A7-6BC24BD55FE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej2. Desea Continuar", "Ej2. Desea Continuar\Ej2. Desea Continuar.csproj", "{75131D43-8A3A-4FF2-A7A7-6BC24BD55FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librería de Clases", "Librería de Clases\Librería de Clases.csproj", "{D2F5950A-2D0B-4FFD-AEA1-4D9DF889001A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Librería de Clases", "Librería de Clases\Librería de Clases.csproj", "{D2F5950A-2D0B-4FFD-AEA1-4D9DF889001A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 02 - Prog. Orientada a Objetos", "Clase 02 - Prog. Orientada a Objetos", "{DF14B035-87DB-4DA6-9CD9-2525D2E7F0AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1. Creo que necesito un prestamo", "Ej1. Creo que necesito un prestamo\Ej1. Creo que necesito un prestamo.csproj", "{7557BB67-4BD0-4AF0-B1BB-BEBDDEF62A69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej1. Creo que necesito un prestamo", "Ej1. Creo que necesito un prestamo\Ej1. Creo que necesito un prestamo.csproj", "{7557BB67-4BD0-4AF0-B1BB-BEBDDEF62A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2. Cuantas Primaveras Tenes", "Ej2. Cuantas Primaveras Tenes\Ej2. Cuantas Primaveras Tenes.csproj", "{60CEEC2D-6192-41E4-B6D9-048C1ACBC22F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{7557BB67-4BD0-4AF0-B1BB-BEBDDEF62A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7557BB67-4BD0-4AF0-B1BB-BEBDDEF62A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7557BB67-4BD0-4AF0-B1BB-BEBDDEF62A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CEEC2D-6192-41E4-B6D9-048C1ACBC22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CEEC2D-6192-41E4-B6D9-048C1ACBC22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CEEC2D-6192-41E4-B6D9-048C1ACBC22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CEEC2D-6192-41E4-B6D9-048C1ACBC22F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +81,7 @@ Global
 		{040BC2FF-7049-4592-A971-3DC25EA6AC21} = {A6340E74-3EC9-4D43-A35C-C1BF9FDFFD67}
 		{75131D43-8A3A-4FF2-A7A7-6BC24BD55FE5} = {A6340E74-3EC9-4D43-A35C-C1BF9FDFFD67}
 		{7557BB67-4BD0-4AF0-B1BB-BEBDDEF62A69} = {DF14B035-87DB-4DA6-9CD9-2525D2E7F0AF}
+		{60CEEC2D-6192-41E4-B6D9-048C1ACBC22F} = {DF14B035-87DB-4DA6-9CD9-2525D2E7F0AF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA931176-7374-4DCC-BE7C-E2E932B687CF}
