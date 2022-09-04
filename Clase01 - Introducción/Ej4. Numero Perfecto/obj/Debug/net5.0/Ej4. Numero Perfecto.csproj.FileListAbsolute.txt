@@ -1,0 +1,16 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\bin\Debug\net5.0\Ej4. Numero Perfecto.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\bin\Debug\net5.0\Ej4. Numero Perfecto.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\bin\Debug\net5.0\Ej4. Numero Perfecto.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\bin\Debug\net5.0\Ej4. Numero Perfecto.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\bin\Debug\net5.0\Ej4. Numero Perfecto.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\bin\Debug\net5.0\Ej4. Numero Perfecto.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\refint\Ej4. Numero Perfecto.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\Ej4. Numero Perfecto.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej4. Numero Perfecto\obj\Debug\net5.0\ref\Ej4. Numero Perfecto.dll

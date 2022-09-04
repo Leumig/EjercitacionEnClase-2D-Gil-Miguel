@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej2. Cuantas primaveras tenes/1.0.0": {
+        "runtime": {
+          "Ej2. Cuantas primaveras tenes.dll": {}
+        }
+      },
+      "Librería de Clases/1.0.0": {
+        "runtime": {
+          "Librería de Clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej2. Cuantas primaveras tenes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Librería de Clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

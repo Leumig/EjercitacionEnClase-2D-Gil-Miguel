@@ -1,0 +1,16 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\bin\Debug\net5.0\Ej2. Error al cubo.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\bin\Debug\net5.0\Ej2. Error al cubo.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\bin\Debug\net5.0\Ej2. Error al cubo.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\bin\Debug\net5.0\Ej2. Error al cubo.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\bin\Debug\net5.0\Ej2. Error al cubo.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\bin\Debug\net5.0\Ej2. Error al cubo.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\refint\Ej2. Error al cubo.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\Ej2. Error al cubo.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej2. Error al cubo\obj\Debug\net5.0\ref\Ej2. Error al cubo.dll

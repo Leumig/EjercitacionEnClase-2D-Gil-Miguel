@@ -1,0 +1,12 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\bin\Debug\net5.0\Librería de Clases Validadoras.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\bin\Debug\net5.0\Librería de Clases Validadoras.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\bin\Debug\net5.0\Librería de Clases Validadoras.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\refint\Librería de Clases Validadoras.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\Librería de Clases Validadoras.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Librería de Clases Validadoras\obj\Debug\net5.0\ref\Librería de Clases Validadoras.dll

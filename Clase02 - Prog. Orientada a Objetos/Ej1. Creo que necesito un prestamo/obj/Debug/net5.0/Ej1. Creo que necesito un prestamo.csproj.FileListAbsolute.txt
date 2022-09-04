@@ -1,0 +1,19 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Ej1. Creo que necesito un prestamo.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Ej1. Creo que necesito un prestamo.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Ej1. Creo que necesito un prestamo.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Ej1. Creo que necesito un prestamo.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Ej1. Creo que necesito un prestamo.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Ej1. Creo que necesito un prestamo.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Librería de Clases.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\bin\Debug\net5.0\Librería de Clases.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.csproj.CopyComplete
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\refint\Ej1. Creo que necesito un prestamo.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\Ej1. Creo que necesito un prestamo.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej1. Creo que necesito un prestamo\obj\Debug\net5.0\ref\Ej1. Creo que necesito un prestamo.dll

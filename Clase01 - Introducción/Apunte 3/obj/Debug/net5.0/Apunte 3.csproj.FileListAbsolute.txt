@@ -1,0 +1,16 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\bin\Debug\net5.0\Apunte 3.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\bin\Debug\net5.0\Apunte 3.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\bin\Debug\net5.0\Apunte 3.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\bin\Debug\net5.0\Apunte 3.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\bin\Debug\net5.0\Apunte 3.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\bin\Debug\net5.0\Apunte 3.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\refint\Apunte 3.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\Apunte 3.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Apunte 3\obj\Debug\net5.0\ref\Apunte 3.dll

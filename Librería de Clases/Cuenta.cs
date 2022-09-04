@@ -8,8 +8,8 @@ namespace Librería_de_Clases
 {
     public class Cuenta
     {
-        public string titular;
-        public int cantidad;
+        private string titular;
+        private int cantidad;
 
         public Cuenta()
         {
@@ -22,10 +22,26 @@ namespace Librería_de_Clases
             this.cantidad = cantidad;
         }
 
+        public string Titular
+        {
+            get 
+            { 
+                return titular; 
+            } 
+        }
+
+        public int Cantidad
+        {
+            get
+            {
+                return cantidad;    
+            }
+        }
+
         static public string Mostrar(Cuenta cuentaIngresada)
         {
-            string titularIngresado = cuentaIngresada.titular;
-            int cantidadIngresada = cuentaIngresada.cantidad;
+            string titularIngresado = cuentaIngresada.Titular;
+            int cantidadIngresada = cuentaIngresada.Cantidad;
 
             string texto = "| TITULAR: " + titularIngresado + " | CANTIDAD: "  + cantidadIngresada + " |";
 

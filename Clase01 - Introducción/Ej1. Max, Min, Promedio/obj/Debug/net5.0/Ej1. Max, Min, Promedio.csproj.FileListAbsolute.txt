@@ -1,0 +1,16 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\bin\Debug\net5.0\Ej1. Max, Min, Promedio.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\bin\Debug\net5.0\Ej1. Max, Min, Promedio.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\bin\Debug\net5.0\Ej1. Max, Min, Promedio.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\bin\Debug\net5.0\Ej1. Max, Min, Promedio.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\bin\Debug\net5.0\Ej1. Max, Min, Promedio.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\bin\Debug\net5.0\Ej1. Max, Min, Promedio.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\refint\Ej1. Max, Min, Promedio.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\Ej1. Max, Min, Promedio.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase01 - Introducción\Ej1. Max, Min, Promedio\obj\Debug\net5.0\ref\Ej1. Max, Min, Promedio.dll

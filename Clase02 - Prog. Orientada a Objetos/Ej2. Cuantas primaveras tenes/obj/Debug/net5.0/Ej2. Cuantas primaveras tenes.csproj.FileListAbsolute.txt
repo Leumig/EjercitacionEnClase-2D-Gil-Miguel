@@ -1,0 +1,19 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Ej2. Cuantas primaveras tenes.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Ej2. Cuantas primaveras tenes.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Ej2. Cuantas primaveras tenes.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Ej2. Cuantas primaveras tenes.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Ej2. Cuantas primaveras tenes.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Ej2. Cuantas primaveras tenes.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Librería de Clases.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\bin\Debug\net5.0\Librería de Clases.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.csproj.CopyComplete
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\refint\Ej2. Cuantas primaveras tenes.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\Ej2. Cuantas primaveras tenes.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase02 - Prog. Orientada a Objetos\Ej2. Cuantas primaveras tenes\obj\Debug\net5.0\ref\Ej2. Cuantas primaveras tenes.dll

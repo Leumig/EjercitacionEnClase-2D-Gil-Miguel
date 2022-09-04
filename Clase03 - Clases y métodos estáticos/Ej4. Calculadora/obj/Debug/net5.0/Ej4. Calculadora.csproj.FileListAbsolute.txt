@@ -1,0 +1,21 @@
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Ej4. Calculadora.exe
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Ej4. Calculadora.deps.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Ej4. Calculadora.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Ej4. Calculadora.runtimeconfig.dev.json
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Ej4. Calculadora.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Ej4. Calculadora.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Librería de Clases Validadoras.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Librería de Clases.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Librería de Clases Validadoras.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\bin\Debug\net5.0\Librería de Clases.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.csproj.CopyComplete
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\refint\Ej4. Calculadora.dll
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.pdb
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\Ej4. Calculadora.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\EjercitacionEnClase-Gil-Miguel\Clase03 - Clases y métodos estáticos\Ej4. Calculadora\obj\Debug\net5.0\ref\Ej4. Calculadora.dll
